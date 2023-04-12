@@ -50,17 +50,24 @@
 - 多语言(中文繁体、英文)
 - 其他（待收集意见）
 
+# 需求环境
+
+- PHP:7.3-7.4
+- MySQL:5.7
+- Redis拓展
+
 # 演示站
 
-网址：[https://test.osuu.cc](https://test.osuu.cc/)
+- 网址：[https://test.osuu.cc](https://test.osuu.cc/)
 
-后台：[https://test.osuu.cc/admin](https://test.osuu.cc/admin)
+- 后台：[https://test.osuu.cc/admin](https://test.osuu.cc/admin)
 
-账号：admin123
+- 账号：admin123
 
-密码：123456
+- 密码：123456
 
-已投入使用的公益站点：[https://chat.qingdh.cn/](https://chat.qingdh.cn/)
+- 已投入使用的公益站点：[https://chat.qingdh.cn/](https://chat.qingdh.cn/)
+
 
 # 更新记录
 
